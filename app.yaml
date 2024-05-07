@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: baran-wasmerio-flask-template
+package: baran/wasmerio-flask-template
